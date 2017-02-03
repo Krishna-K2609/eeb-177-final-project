@@ -1,0 +1,29 @@
+PROJECT IDEA
+
+Background
+The 2014-2016 El Nino event was one of the strongest on record, and has been associated with significant rainfall anomalies at the global level, including decreases in rainfall in Southeast Asia and increases in rainfall in the Atlantic. 
+
+Project Objective
+This project will analyze remote sensing data from two satellite missions, TRMM and GPM, between 1997 and 2016 and compare the monthly and annual distribution of rainfall in 2016 to the 1997-2015 average to identify areas which experienced decreases in rainfall, possibly as a result of El Nino.
+
+Data Sources: TRMM and GPM
+TRMM (the Tropical Rainfall Monitoring Mission) was launched in 1997 with the intention of monitoring rainfall patterns with very high resolution. The mission was terminated in 2013. The GPM (Global Precipitation Mission) was launched shortly thereafter with a similar objective and has provided continuity to the TRMM data. The spatial and temporal resolution of both missions is similar allowing for comparability between the two datasets.
+
+The two datasets are available from the NASA-JPL website.
+
+Data Analysis
+For this project I will analyze the long-term (1997-2015) rainfall average as well as the 2016 rainfall trend, and compare both to identify significant differences. The primary objective is to identify areas that received lower rainfall but areas that received higher rainfall will also be identified. The results will be visualized through maps.
+
+I also propose to identify long-term seasonal averages (December-February, March-May, June-August, September-November) and the corresponding values for 2016 to identify seasons associated with the lowest amount of rainfall. The results will be visualized through maps.
+
+Although visualizations will mainly be in the form of maps, charts showing rainfall trends will also be prepared.
+
+Methods
+In order to complete this project, I will need to import geospatial and raster analysis (rasterio, pygaarst) packages for Python to interpret netCDF files. 
+
+Tutorials for geospatial analysis using Python:
+https://gist.github.com/jacquestardie/0d1c0cb413b3b9b06edf
+
+
+
+
