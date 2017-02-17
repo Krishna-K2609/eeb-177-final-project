@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /ftp/
+Disallow:/images/
+Disallow:/search*
+Disallow:/search/
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /MODIS/
+Disallow: /mirador/
+Disallow: /rssnews/Connections/
+Disallow: /opendap/
+Disallow: /OPENDAP/
+Disallow: /data/datapool/
+Disallow: /WWW-TMP/
+Disallow: /*at_download$
+Disallow: /*sendto_form$
+Disallow: /*news_summary_view$
+Disallow: /*folder_slideshow_view$
+Disallow: /*makeSlideshowview$
+Disallow: /*folder_factories$
+Disallow: /*folder_slideshow_view/makeSlideshow$
+Disallow: /*topdoc_view$
+Disallow: /drupal/
+Disallow: /dataholdings/
+Disallow: /dataholdings/?q=dataholdings/
+Disallow: /virtprod/?q=dataholdings/
+
